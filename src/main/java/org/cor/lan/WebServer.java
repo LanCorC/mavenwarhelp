@@ -1,3 +1,5 @@
+package org.cor.lan;
+
 import com.fasterxml.jackson.core.util.ByteArrayBuilder;
 
 import java.io.*;
@@ -5,7 +7,6 @@ import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.nio.charset.StandardCharsets;
-import java.time.Clock;
 import java.time.LocalDate;
 import java.util.Date;
 import java.util.StringTokenizer;

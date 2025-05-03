@@ -1,3 +1,5 @@
+package org.cor.lan;
+
 import java.util.Arrays;
 
 //https://github.com/avolgha/how-to-make-a-java-webserver/tree/dev
